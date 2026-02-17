@@ -30,7 +30,7 @@ I build at the intersection of AI infrastructure and real-world products — fro
 
 ### 📊 GitHub Stats
 
-[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=bezh7&theme=dark&hide_border=true)](https://github.com/bezh7)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bezh7&theme=github-compact&hide_border=true)](https://github.com/bezh7)
 
 ---
 
