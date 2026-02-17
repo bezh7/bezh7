@@ -8,9 +8,9 @@ I build at the intersection of AI infrastructure and real-world products — fro
 
 ### 🚀 What I'm Working On
 
-- **Aperture Science (https://www.aperturescience.app/) ** — Hyperrealistic 3D virtual tours for commercial real estate using Gaussian Splatting and photogrammetry pipelines.
-- **MicroRecitation (https://microrecitations.com/) ** — Multi-agent AI voice tutoring platform. Teachers design DAG-based workflows; AI agents pass context and deliver personalized Socratic sessions 24/7.
-- **[MCP Rank](https://mcp-rank.vercel.app)** — Search engine for MCP servers. Ships a Python SDK that wraps OpenAI/Anthropic clients with automatic tool discovery at runtime.
+- Aperture Science (https://www.aperturescience.app/) — Hyperrealistic 3D virtual tours for commercial real estate using Gaussian Splatting and photogrammetry pipelines.
+- MicroRecitation (https://microrecitations.com/) — Multi-agent AI voice tutoring platform. Teachers design DAG-based workflows; AI agents pass context and deliver personalized Socratic sessions 24/7.
+- [MCP Rank](https://mcp-rank.vercel.app) — Search engine for MCP servers. Ships a Python SDK that wraps OpenAI/Anthropic clients with automatic tool discovery at runtime.
 
 ---
 
@@ -30,8 +30,7 @@ I build at the intersection of AI infrastructure and real-world products — fro
 
 ### 📊 GitHub Stats
 
-[![Benjamin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bezh7&theme=dark&show_icons=true&hide_border=true)](https://github.com/bezh7)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bezh7&theme=dark&layout=compact&hide_border=true)](https://github.com/bezh7)
+![Benjamin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bezh7&theme=dark&show_icons=true&hide_border=true&count_private=true)
 
 ---
 
