@@ -2,24 +2,15 @@
 
 **M&T @ Penn** (Computer Engineering + Economics) · Builder · Researcher
 
-I build at the intersection of AI infrastructure and real-world products — from agentic systems and MCP tooling to 3D spatial computing and educational AI. Currently co-founding [Aperture Science](https://github.com/bezh7) and building [MCP Rank](https://mcp-rank.vercel.app), a semantic search engine for MCP servers.
+I build at the intersection of AI infrastructure and real-world products — from agentic systems and MCP tooling to 3D spatial computing and educational AI. Currently co-founding [Aperture Science](aperturescience.app). Check out the rest of my projects at https://bezh7.github.io/!
 
 ---
 
 ### 🚀 What I'm Working On
 
+- **Aperture Science (https://www.aperturescience.app/) ** — Hyperrealistic 3D virtual tours for commercial real estate using Gaussian Splatting and photogrammetry pipelines.
+- **MicroRecitation (https://microrecitations.com/) ** — Multi-agent AI voice tutoring platform. Teachers design DAG-based workflows; AI agents pass context and deliver personalized Socratic sessions 24/7.
 - **[MCP Rank](https://mcp-rank.vercel.app)** — Search engine for MCP servers. Ships a Python SDK that wraps OpenAI/Anthropic clients with automatic tool discovery at runtime.
-- **Aperture Science** — Hyperrealistic 3D virtual tours for commercial real estate using Gaussian Splatting and photogrammetry pipelines.
-- **MicroRecitation** — Multi-agent AI voice tutoring platform built for the Stanford CREATE AI Challenge. Teachers design DAG-based workflows; AI agents pass context and deliver personalized Socratic sessions 24/7.
-
----
-
-### 🏆 Awards & Recognition
-
-- 🚀 **NASA Pete Conrad Scholar** — recognized for entrepreneurial innovation in science and technology
-- 💰 **1517 Fund Medici Grant Awardee**
-- 🌍 **DECA ICDC Top 10** — Business Services Marketing, International
-- 🥇 **Illinois Science Olympiad** — Detector Building 1st Place
 
 ---
 
@@ -28,8 +19,7 @@ I build at the intersection of AI infrastructure and real-world products — fro
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
-![FastAPI](https://img.shields.io/badge/-FastAPI-333333?style=flat&logo=fastapi)
+![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)\
 ![LangGraph](https://img.shields.io/badge/-LangGraph-333333?style=flat&logo=python)
 ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazonaws&logoColor=FF9900)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
