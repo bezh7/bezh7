@@ -30,7 +30,7 @@ I build at the intersection of AI infrastructure and real-world products — fro
 
 ### 📊 GitHub Stats
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bezh7&theme=github-compact&hide_border=true)](https://github.com/bezh7)
+![Benjamin's Contribution Graph](https://ghchart.rshah.org/bezh7)
 
 ---
 
