@@ -1,6 +1,6 @@
 # Hey, I'm Benjamin Zhang 👋
 
-**M&T @ Penn** (Computer Engineering + Economics) · Builder · Researcher
+**M&T @ Penn** (Computer Engineering + Economics) · 18y/o
 
 I build at the intersection of AI infrastructure and real-world products — from agentic systems and MCP tooling to 3D spatial computing and educational AI. Currently co-founding [Aperture Science](aperturescience.app). Check out the rest of my projects at https://bezh7.github.io/!
 
@@ -8,8 +8,8 @@ I build at the intersection of AI infrastructure and real-world products — fro
 
 ### 🚀 What I'm Working On
 
-- Aperture Science (https://www.aperturescience.app/) — Hyperrealistic 3D virtual tours for commercial real estate using Gaussian Splatting and photogrammetry pipelines.
-- MicroRecitation (https://microrecitations.com/) — Multi-agent AI voice tutoring platform. Teachers design DAG-based workflows; AI agents pass context and deliver personalized Socratic sessions 24/7.
+- [Aperture Science](https://www.aperturescience.app/) — Hyperrealistic 3D virtual tours for commercial real estate using Gaussian Splatting and photogrammetry pipelines.
+- [MicroRecitation](https://microrecitations.com/) — Multi-agent AI voice tutoring platform. Teachers design DAG-based workflows; AI agents pass context and deliver personalized Socratic sessions 24/7.
 - [MCP Rank](https://mcp-rank.vercel.app) — Search engine for MCP servers. Ships a Python SDK that wraps OpenAI/Anthropic clients with automatic tool discovery at runtime.
 
 ---
@@ -30,7 +30,7 @@ I build at the intersection of AI infrastructure and real-world products — fro
 
 ### 📊 GitHub Stats
 
-![Benjamin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bezh7&theme=dark&show_icons=true&hide_border=true&count_private=true)
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=bezh7&theme=dark&hide_border=true)](https://github.com/bezh7)
 
 ---
 
