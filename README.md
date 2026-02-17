@@ -26,14 +26,6 @@ I build at the intersection of AI infrastructure and real-world products — fro
 ![Supabase](https://img.shields.io/badge/-Supabase-333333?style=flat&logo=supabase&logoColor=3ECF8E)
 ![Three.js](https://img.shields.io/badge/-Three.js-333333?style=flat&logo=three.js)
 
----
-
-### 📊 GitHub Stats
-
-![Benjamin's Contribution Graph](https://ghchart.rshah.org/bezh7)
-
----
-
 ### 📬 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-bezh7-blue?style=flat&logo=linkedin)](https://linkedin.com/in/bezh7)
