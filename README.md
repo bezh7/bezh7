@@ -1,6 +1,6 @@
-# Hey, I'm Ben
+hey, i'm Ben:
 
-**M&T @ Penn** (Mechanical Engineering + OIDD) · Prev. Built Robotics
+**m&t @ penn** (mechanical Engineering + operations) · prev. built robotics
 
 industrializing the moon will be the next great unlock in the mission towards humanity's interplanetary presence. https://bezh7.github.io/
 
